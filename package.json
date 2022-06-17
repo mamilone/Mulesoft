@@ -1,0 +1,25 @@
+{
+  "name": "mulesoft",
+  "version": "1.0.0",
+  "description": "mulesoft assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mamilone/Mulesoft.git"
+  },
+  "author": "4MT19CS081",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mamilone/Mulesoft/issues"
+  },
+  "homepage": "https://github.com/mamilone/Mulesoft#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "mysql": "^2.18.1"
+  }
+}

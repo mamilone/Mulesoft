@@ -1,0 +1,21 @@
+h1 {
+    position: relative;
+    top: 15%;
+    left: 35%;
+}
+
+table {
+    position: relative;
+    left: 27%;
+    padding: 15px;
+}
+
+th {
+    padding: 15px;
+    background-color: rgb(183, 119, 87);
+}
+
+td {
+    padding: 15px;
+    background-color: rgb(153, 180, 37);
+}
